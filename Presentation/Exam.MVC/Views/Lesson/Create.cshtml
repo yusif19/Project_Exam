@@ -1,0 +1,41 @@
+﻿@using Exam.Application.Features.Commands.Lesson.CreateLesson
+@model CreateLessonCommandRequest
+
+<div class="form-container">
+    <h2>Dərs Yaratma</h2>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="@Model.Lesson.Code" class="control-label">Kod</label>
+            <input asp-for="@Model.Lesson.Code" class="form-control" maxlength="3" />
+            <span asp-validation-for="@Model.Lesson.Code" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Lesson.Name" class="control-label">Ad</label>
+            <input asp-for="@Model.Lesson.Name" class="form-control" maxlength="30" />
+            <span asp-validation-for="@Model.Lesson.Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Lesson.Class" class="control-label">Sinif</label>
+            <input asp-for="@Model.Lesson.Class" class="form-control" type="number" step="0.01" />
+            <span asp-validation-for="@Model.Lesson.Class" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Lesson.TeacherName" class="control-label">Müəllim Adı</label>
+            <input asp-for="@Model.Lesson.TeacherName" class="form-control" maxlength="20" />
+            <span asp-validation-for="@Model.Lesson.TeacherName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Lesson.TeacherSurname" class="control-label">Müəllim Soyadı</label>
+            <input asp-for="@Model.Lesson.TeacherSurname" class="form-control" maxlength="20" />
+            <span asp-validation-for="@Model.Lesson.TeacherSurname" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn-submit">Yerləşdir</button>
+
+        <a asp-action="Index" asp-controller="exam" class="btn btn-secondary">Geri Qayıt</a>
+    </form>
+</div>

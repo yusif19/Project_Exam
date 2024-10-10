@@ -1,0 +1,37 @@
+﻿@using Exam.Application.Features.Commands.Exam.GetAllLesson
+@model GetAllLessonCommandResponse
+
+<div class="table-container">
+    <h2>Dərslər</h2>
+    <a asp-area="" asp-action="create" asp-controller="lesson" class="create-entity">Dərs Yarat</a>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Dərs Kodu</th>
+                <th>Dərs Adı</th>
+                <th>Sinif</th>
+                <th>Müəllim Adı</th>
+                <th>Müəllim Soyadı</th>
+                <th>Parametrlər</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Lessons)
+            {
+                <tr>
+                    <td>@item.Code</td>      
+                    <td>@item.Name</td>      
+                    <td>@item.Class</td>      
+                    <td>@item.TeacherName</td> 
+                    <td>@item.TeacherSurname</td> 
+                    <td>
+                        <a asp-controller="Lesson" asp-action="Update" asp-route-id="@item.Id"><i class="mdi mdi-pencil-box"></i></a>
+                        <a asp-controller="Lesson" asp-action="Delete" asp-route-id="@item.Id"><i class="mdi mdi-delete"></i></a>
+                        <a asp-controller="Lesson" asp-action="Details" asp-route-id="@item.Id"><i class="mdi mdi-open-in-new"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

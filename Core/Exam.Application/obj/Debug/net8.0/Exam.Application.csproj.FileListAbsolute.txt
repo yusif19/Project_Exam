@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exam\Core\Exam.Application\bin\Debug\net8.0\Exam.Application.deps.json
+C:\Users\user\source\repos\Exam\Core\Exam.Application\bin\Debug\net8.0\Exam.Application.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Application\bin\Debug\net8.0\Exam.Application.pdb
+C:\Users\user\source\repos\Exam\Core\Exam.Application\bin\Debug\net8.0\Exam.Domain.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Application\bin\Debug\net8.0\Exam.Domain.pdb
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.App.914ACFA5.Up2Date
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\refint\Exam.Application.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\Exam.Application.pdb
+C:\Users\user\source\repos\Exam\Core\Exam.Application\obj\Debug\net8.0\ref\Exam.Application.dll

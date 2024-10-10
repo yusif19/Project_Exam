@@ -1,0 +1,41 @@
+﻿@using Exam.Application.DTO
+@model LessonDTO
+
+<div class="form-container">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Code" class="control-label">Kod</label>
+            <input asp-for="Code" class="form-control" maxlength="3" />
+            <span asp-validation-for="Code" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Name" class="control-label">Ad</label>
+            <input asp-for="Name" class="form-control" maxlength="30" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Class" class="control-label">Sinif</label>
+            <input asp-for="Class" class="form-control" type="number" step="0.01" />
+            <span asp-validation-for="Class" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TeacherName" class="control-label">Müəllim Adı</label>
+            <input asp-for="TeacherName" class="form-control" maxlength="20" />
+            <span asp-validation-for="TeacherName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TeacherSurname" class="control-label">Müəllim Soyadı</label>
+            <input asp-for="TeacherSurname" class="form-control" maxlength="20" />
+            <span asp-validation-for="TeacherSurname" class="text-danger"></span>
+        </div>
+        <input type="hidden" asp-for="Id" />
+
+        <button type="submit" class="btn-submit">Yerləşdir</button>
+
+        <a asp-action="Index" asp-controller="lesson" class="btn btn-secondary">Geri Qayıt</a>
+    </form>
+</div>

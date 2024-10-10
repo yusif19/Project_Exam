@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\bin\Debug\net8.0\Exam.Domain.deps.json
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\bin\Debug\net8.0\Exam.Domain.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\bin\Debug\net8.0\Exam.Domain.pdb
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\refint\Exam.Domain.dll
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\Exam.Domain.pdb
+C:\Users\user\source\repos\Exam\Core\Exam.Domain\obj\Debug\net8.0\ref\Exam.Domain.dll

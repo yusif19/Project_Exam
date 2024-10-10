@@ -1,0 +1,34 @@
+﻿@using Exam.Application.Features.Commands.Exam.GetAllExam
+@model GetAllExamCommandResponse
+    <div class="table-container">
+        <h2>İmtahanlar</h2>
+
+        <a asp-area="" asp-action="create" asp-controller="exam" class="create-entity">Imtahan Yarat</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>Dərs</th>
+                    <th>Tələbə</th>
+                    <th>Tarix</th>
+                    <th>Qiymət</th>
+                    <th>Parametrlər</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Exams)
+                {
+                    <tr>
+                        <td>@item.Lesson</td>
+                        <td>@item.Student</td>
+                        <td>@item.Date.ToString("yyyy-MM-dd")</td>
+                        <td>@item.Grade</td>
+                        <td>
+                            <a asp-controller="Exam" asp-action="Update" asp-route-id="@item.Id"><i class="mdi mdi-pencil-box"></i></a>
+                            <a asp-controller="Exam" asp-action="Delete" asp-route-id="@item.Id"><i class="mdi mdi-delete"></i></a>
+                            <a asp-controller="Exam" asp-action="Details" asp-route-id="@item.Id"><i class="mdi mdi-open-in-new"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

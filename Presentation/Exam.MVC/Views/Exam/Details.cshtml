@@ -1,0 +1,24 @@
+﻿@using Exam.Application.DTO
+@using Exam.Application.Features.Commands.Exam.GetByIdExam
+<!DOCTYPE html>
+@model GetByIdExamCommandResponse
+
+    <div class="div-container">
+        <h2>Dərs Qiymətləndirmə</h2>
+            <div class="form-group">
+                <span>Dərs:</span>
+                <p>@Model.LessonName</p>
+            </div>
+            <div class="form-group">
+                <span>Tələbə:</span>
+                <p>@Model.StudentName</p>
+            </div> 
+            <div class="form-group">
+                <span>Qiymət:</span>
+                <p>@Model.Exam.Grade</p>
+            </div><div class="form-group">
+                <span>İmtahan vaxtı:</span>
+            <p>@Model.Exam.Date.ToString("dd.MM.yyyy HH:mm")</p>
+            </div>
+            
+</div>

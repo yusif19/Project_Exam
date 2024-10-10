@@ -1,0 +1,48 @@
+﻿@using Exam.Application.Features.Commands.Exam.GetByIdExam
+@model GetByIdStudentCommandResponse
+
+<!DOCTYPE html>
+
+<div class="div-container">
+    <h2>Tələbə Məlumatları</h2>
+
+    <div class="form-group">
+        <span>Ad:</span>
+        <p>@Model.Student.Name</p>
+    </div>
+
+    <div class="form-group">
+        <span>Soyad:</span>
+        <p>@Model.Student.Surname</p>
+    </div>
+
+    <div class="form-group">
+        <span>Nömrə:</span>
+        <p>@Model.Student.Number</p>
+    </div>
+
+    <div class="form-group">
+        <span>Sinif:</span>
+        <p>@Model.Student.Class</p>
+    </div>
+
+    <div class="form-group">
+        <span>İmtahanlar:</span>
+        <ul>
+            @if (Model.Exams.Count==0)
+            {
+               <p>Imtahan Yoxdur</p>
+            }
+            else
+            {
+                @foreach (var exam in Model.Exams)
+                {
+                    <li>
+                        <strong>İmtahan vaxtı:</strong> @exam.Date.ToString("dd.MM.yyyy HH:mm")
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+</div>
+

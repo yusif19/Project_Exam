@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.deps.json
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.dll
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.pdb
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Application.dll
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Domain.dll
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Application.pdb
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\bin\Debug\net8.0\Exam.Domain.pdb
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Inf.E86AC6A0.Up2Date
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.dll
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\refint\Exam.Infrastructure.dll
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.pdb
+C:\Users\user\source\repos\Exam\Infrastructure\Exam.Infrastructure\obj\Debug\net8.0\ref\Exam.Infrastructure.dll

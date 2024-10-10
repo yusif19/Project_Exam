@@ -1,0 +1,35 @@
+﻿@using Exam.Application.Features.Commands.Student.CreateStudent
+@model CreateStudentCommandRequest
+
+<div class="form-container">
+    <h2>Tələbə Yaratma</h2>
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="@Model.Student.Name" class="control-label"></label>
+            <input asp-for="@Model.Student.Name" class="form-control" />
+            <span asp-validation-for="@Model.Student.Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Student.Surname" class="control-label"></label>
+            <input asp-for="@Model.Student.Surname" class="form-control" />
+            <span asp-validation-for="@Model.Student.Surname" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Student.Number" class="control-label"></label>
+            <input asp-for="@Model.Student.Number" class="form-control" type="number" />
+            <span asp-validation-for="@Model.Student.Number" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Student.Class" class="control-label"></label>
+            <input asp-for="@Model.Student.Class" class="form-control" type="number" />
+            <span asp-validation-for="@Model.Student.Class" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn-submit">Yerləşdir</button>
+
+        <a asp-action="Index" asp-controller="exam" class="btn btn-secondary">Geri Qayıt</a>
+    </form>
+</div>

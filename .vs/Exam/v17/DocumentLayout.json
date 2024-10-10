@@ -1,0 +1,1688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\exam\\updateexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\exam\\updateexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\exam\\createexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\exam\\createexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\lesson\\createlessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\lesson\\createlessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\student\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\student\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|solutionrelative:core\\exam.domain\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\lesson\\updatelessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\lesson\\updatelessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\lesson\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\lesson\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\lesson\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\lesson\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.domain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|solutionrelative:core\\exam.domain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\validators\\student\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\validators\\student\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|solutionrelative:core\\exam.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getalllesson\\getalllessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\deletelesson\\deletelessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\updatelesson\\updatelessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\lesson\\createlesson\\createlessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\lesson\\getbyidlesson\\getbyidlessoncommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\exam\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\exam\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getbyidstudent\\getbyidstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\student\\getallstudent\\getallstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\exam\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\exam\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getbyidexam\\getbyidexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\exam\\examreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\exam\\examreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\dtos\\examdtov2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\dtos\\examdtov2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\updateexam\\updateexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\createexam\\createexamcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\updatestudent\\updatestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\deletestudent\\deletestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\student\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\commands\\exam\\deleteexam\\deleteexamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\exam\\getallexam\\getallexamcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\exam\\examwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\exam\\examwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86615619-88C7-4DFE-8908-A2B7A761343A}|Core\\Exam.Application\\Exam.Application.csproj|solutionrelative:core\\exam.application\\features\\queries\\examandstudent\\getalllessonandstudent\\getalllessonandstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\exam.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\exam.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\configuretion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\configuretion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\student\\studentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\student\\studentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\student\\studentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\student\\studentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\lesson\\lessonwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\lesson\\lessonwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\repositories\\lesson\\lessonreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\repositories\\lesson\\lessonreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\exam.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\exam.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|c:\\users\\user\\source\\repos\\exam\\core\\exam.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6A9C8-9B8C-4311-809E-F91FE77D28DD}|Core\\Exam.Domain\\Exam.Domain.csproj|solutionrelative:core\\exam.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5842A517-C51D-47F1-9021-D15A1FDC265F}|Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.infrastructure\\exam.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5842A517-C51D-47F1-9021-D15A1FDC265F}|Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:infrastructure\\exam.infrastructure\\exam.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|c:\\users\\user\\source\\repos\\exam\\presentation\\exam.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E55252C-6975-49FA-B340-344724D6546E}|Presentation\\Exam.MVC\\Exam.MVC.csproj|solutionrelative:presentation\\exam.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|c:\\users\\user\\source\\repos\\exam\\infrastructure\\exam.persistence\\migrations\\20241010154741_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F5FDA5-60B9-458C-9EDC-FD23EEC1C51D}|Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj|solutionrelative:infrastructure\\exam.persistence\\migrations\\20241010154741_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateExamValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Exam\\CreateExamValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Exam\\CreateExamValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Exam\\CreateExamValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Exam\\CreateExamValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:04:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateExamValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Exam\\UpdateExamValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Exam\\UpdateExamValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Exam\\UpdateExamValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Exam\\UpdateExamValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:34:33.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Domain\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Exam.cs",
+              "RelativeToolTip": "Core\\Exam.Domain\\Entities\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:22.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Student\\CreateStudentValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Student\\CreateStudentValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Student\\CreateStudentValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Student\\CreateStudentValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:41:00.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateLessonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Lesson\\CreateLessonValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Lesson\\CreateLessonValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Lesson\\CreateLessonValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Lesson\\CreateLessonValidator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:40:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateLessonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Lesson\\UpdateLessonValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Lesson\\UpdateLessonValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Lesson\\UpdateLessonValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Lesson\\UpdateLessonValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:43:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\LessonDTO.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\DTOs\\LessonDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\LessonDTO.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\DTOs\\LessonDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:20:31.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Update.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Lesson\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Update.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Lesson\\Update.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:25:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAWwEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:10:19.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Controllers\\ExamController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAtwDAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:31:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Student\\Update.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:17:58.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:58:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Lesson\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Lesson\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T21:20:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Domain\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Lesson.cs",
+              "RelativeToolTip": "Core\\Exam.Domain\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:50.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Exam.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:53:55.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateStudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Student\\UpdateStudentValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Validators\\Student\\UpdateStudentValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Validators\\Student\\UpdateStudentValidator.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Validators\\Student\\UpdateStudentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:41:30.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:20:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\ExamDTO.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\DTOs\\ExamDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\ExamDTO.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\DTOs\\ExamDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:33:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateLessonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:03:40.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteLessonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:04:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateLessonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:06:41.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateLessonCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:06:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Lesson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Lesson\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:16:45.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Exam\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Exam\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:37:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Program.cs",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:45:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBYAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:45:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllLessonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:47:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateLessonCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:03:52.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateExamCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandRequest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:22:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Lesson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Lesson\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Lesson\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T20:11:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Exam\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Exam\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:40:32.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAKkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T11:05:17.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:46:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:08:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllLessonCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:48:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllLessonCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetAllLesson\\GetAllLessonCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:48:37.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:21:56.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAllLessonAndStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:11:32.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetByIdExamCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwBAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:36:54.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteLessonCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:05:40.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeleteLessonCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\DeleteLesson\\DeleteLessonCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:05:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateLessonCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\UpdateLesson\\UpdateLessonCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:06:59.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteExamCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:23:17.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeleteExamCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:26:45.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateLessonCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Lesson\\CreateLesson\\CreateLessonCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:04:01.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetByIdLessonCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:00:05.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetByIdLessonCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:59:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetByIdLessonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Lesson\\GetByIdLesson\\GetByIdLessonCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:57:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:21:38.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Update.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Exam\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Update.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Exam\\Update.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T21:17:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetByIdStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:02:39.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateExamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:27:13.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA9wDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:56:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetByIdStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:03:12.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:06:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetByIdStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetByIdStudent\\GetByIdStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:03:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:07:14.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetAllStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:49:59.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetAllStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:50:47.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:03:02.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetAllStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Student\\GetAllStudent\\GetAllStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:49:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:03:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:35:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetByIdExamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA6wD4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:36:33.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GetAllExamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:00:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UpdateExamCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:27:33.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateExamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:22:41.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:43:01.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:25:04.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\Exam\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\Exam\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\Exam\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:10:33.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetAllExamCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:00:49.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetByIdExamCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetByIdExam\\GetByIdExamCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:36:23.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ExamReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:50:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ExamDTOv2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\ExamDTOv2.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\DTOs\\ExamDTOv2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\DTOs\\ExamDTOv2.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\DTOs\\ExamDTOv2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:33:11.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20241010154741_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Migrations\\20241010154741_mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Migrations\\20241010154741_mig_1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Migrations\\20241010154741_mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Migrations\\20241010154741_mig_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:47:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20241010154646_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Migrations\\20241010154646_mig_1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:46:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UpdateExamCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\UpdateExam\\UpdateExamCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:27:50.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreateExamCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\CreateExam\\CreateExamCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:22:15.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DeleteStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:05:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UpdateStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:07:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DeleteStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:05:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DeleteStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\DeleteStudent\\DeleteStudentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:04:36.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreateStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Student\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:03:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DeleteExamCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Commands\\Exam\\DeleteExam\\DeleteExamCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:26:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:21:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GetAllExamCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\Exam\\GetAllExam\\GetAllExamCommandRequest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:00:13.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:56:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ExamWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Exam\\ExamWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:52:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "GetAllLessonAndStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBZwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:58:47.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "GetAllLessonAndStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Exam.Application\\Features\\Queries\\ExamAndStudent\\GetAllLessonAndStudent\\GetAllLessonAndStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:00:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Exam.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Exam.MVC.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Exam.MVC.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Exam.MVC.csproj",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Exam.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T11:43:29.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:03:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Configuretion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Configuretion.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Configuretion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Configuretion.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Configuretion.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:57:03.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:03:32.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "StudentWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:55:19.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "StudentReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Student\\StudentReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:54:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LessonWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:53:57.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "LessonReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Repositories\\Lesson\\LessonReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:53:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Exam.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Exam.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T11:42:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:23:39.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Exam.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Core\\Exam.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Exam.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:52:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Exam.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:44:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Exam.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T11:42:41.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Exam.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Presentation\\Exam.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Exam.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:36:06.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
